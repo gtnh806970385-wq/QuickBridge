@@ -1,12 +1,12 @@
-﻿{
+{
 	"modListVersion": 2,
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",
-		"description": "Surround/bridge placement mod for GTNH. Press comma to toggle.",
+		"description": "按逗号键切换，在准星指向的空处从邻近方块边缘延伸搭桥。",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
-		"url": "https://github.com/SinTh0r4s/MyMod",
+		"url": "https://github.com/gtnh806970385-wq/QuickBridge",
 		"updateUrl": "",
 		"authorList": ["Bridging Contributors"],
 		"credits": "",
